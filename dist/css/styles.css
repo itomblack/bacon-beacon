@@ -271,4 +271,16 @@ ul {
 
 /* line 19, /Users/itomblack/Repos/bacon-beacon/src/sass/_home.scss */
 body {
-  background-color: #7700FF; }
+  background-color: white; }
+
+/* line 27, /Users/itomblack/Repos/bacon-beacon/src/sass/_home.scss */
+.frame-iphone {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 375px;
+  max-height: 667px; }
+  /* line 35, /Users/itomblack/Repos/bacon-beacon/src/sass/_home.scss */
+  .frame-iphone img {
+    width: 100%; }
